@@ -9,7 +9,7 @@ public class hello {
 
        // initialize variables
        String firstName = "Shivangi";
-	 System.out.println("Hello, My name is Shivangi");
+	 System.out.println("Hello, I am Shivangi");
        // Using the value of the variable above, output a message in the format, "Hello, I am Shivangi".
 
     }
